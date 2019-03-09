@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[菜鸡的第一次实习面经（平安科技算法研究员-NLP方向）]]></title>
+    <url>%2F2019%2F03%2F09%2F%E8%AE%B0%E5%BD%95%E8%8F%9C%E9%B8%A1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AE%9E%E4%B9%A0offer%2F</url>
+    <content type="text"><![CDATA[因为是学长内推，没有笔试环节，跟面试官约好下午4点视频面试，本以为是在牛客上面，没想到直接微信视频咯~~面试官小哥哥长得很像白宇，完全不像一个资深程序员，帅的一批…… 1.本科专业（这个因为我是跨专业的，不想在简历上写怕被觉得不是科班，没想到还是没躲过被问0.0）;2.5分钟自我介绍;3.介绍简历上的项目，这里建议如果是一些平时的实验或者课程设计就不要列在简历上了，并不会加分0.0；尽量展示一个或两个大项目即可，我的项目是一个根据植物叶片识别植物种类的APP，说白了就是图像识别，问了我数据预处理，怎么提取图像特征，采用了什么算法来进行分类;4.介绍下你知道的损失函数（线性回归，逻辑回归）;5.介绍下上述两个回归的区别，交叉熵均方差怎么算;6.介绍下Python类的继承，Python常用的数据结构;7.听说过XXX么？(我不记得了，貌似是图像处理的一个算法);8.介绍下卷积操作是怎么回事;暂时只记得这么多，如有回忆起来再补充，因为是第一次面试，太紧张了，还好小哥哥人挺好，问完问题就给我介绍了以下他们组现在正在做的项目，以及我想要在哪实习（上海，深圳），然后说后面会有个在线EQ，IQ测评，通过后会评估然后看是否有offer……就酱，等了一周后成功收到offer letter!!!怎么说呢，第一次面试实习真的很紧张，虽然不断告诉自己如果失败了就当积累经验，但是面到自己记不太清的题目依然会紧张到说不出话，然后下意识抓头发，面试官小哥哥轻笑了不止一次0.0囧到炸，以后还要继续加油啊！]]></content>
+      <categories>
+        <category>实习super囧</category>
+      </categories>
+      <tags>
+        <tag>面经</tag>
+        <tag>心路</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[你好,朋友]]></title>
+    <url>%2F2019%2F03%2F07%2F%E4%BD%A0%E5%A5%BD-Hexo%2F</url>
+    <content type="text"><![CDATA[Nozomi这里是测试markdown 列表 a 字列表 哔哩哔哩 loveliver nozomi power &lt;html&gt;&lt;/html&gt; 123456&lt;html&gt; &lt;head&gt; &lt;title&gt;我是标题娘&lt;/title&gt; &lt;/head&gt; &lt;body&gt;&lt;/body&gt;&lt;/html&gt; 我的内容是引用的哦]]></content>
+      <categories>
+        <category>来点不正经的</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F03%2F07%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
